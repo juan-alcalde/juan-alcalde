@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juan-alcalde" alt="juan-alcalde" /></a> </p>
 
-- 🔭 I’m currently working on **Capstone2**
+- 🔭 I’m currently working on **a full stack web application**
 
 - 🌱 I’m currently learning **ASP.NET and C#**
 
-- 👯 I’m looking to collaborate on **tabloidfullstack**
+- 👯 I’m looking to collaborate on **future projects**
 
-- 🤝 I’m looking for help with **continuing my coding journey through internships**
+- 🤝 I’m looking for help with **expanding my coding knowledge**
 
 - 👨‍💻 All of my projects are available at [https://github.com/juan-alcalde](https://github.com/juan-alcalde)
 
