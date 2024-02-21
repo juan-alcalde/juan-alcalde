@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **juanalcaldewv@gmail.com**
 
-- ⚡ Fun fact **I might be a little bit insane**
+- ⚡ Fun fact **I'm kinda funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
