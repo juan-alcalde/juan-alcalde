@@ -1,6 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Juan Alcalde</h1>
-<h3 align="center">A passionate full-stack developer from South America living in Wv,USA</h3>
+<h3 align="center">A passionate full-stack developer from Colombia South America living in Wv,USA </h3>
 <img align ="right" alt="coding" width="800" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juan-alcalde&label=Profile%20views&color=0e75b6&style=flat" alt="juan-alcalde" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **a full stack web application**
 
-- 🌱 I’m currently learning **ASP.NET and C#**
+- 🌱 I’m currently learning **Unity**
 
 - 👯 I’m looking to collaborate on **future projects**
 
