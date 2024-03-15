@@ -1,5 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <h1 align="center">Hi 👋, I'm Juan Alcalde</h1>
 <h3 align="center">A passionate full-stack developer from Colombia South America living in Wv,USA </h3>
 <img align ="right" alt="coding" width="800" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
@@ -29,7 +29,7 @@
 <a href="https://dev.to/juan-alcalde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="juan-alcalde" height="30" width="40" /></a>
 <a href="https://linkedin.com/in//juanalcaldewv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/juanalcaldewv" height="30" width="40" /></a>
 </p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="juanalcaldewv" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/juanalcaldewv?trk=profile-badge">Juan Alcalde</a></div>
+
               
 
 <h3 align="left">Languages and Tools:</h3>
